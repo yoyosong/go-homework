@@ -1,0 +1,13 @@
+package w02
+
+import (
+	"fmt"
+	"testing"
+)
+
+func TestErrDao(t *testing.T) {
+
+	fmt.Println("success----------------------")
+
+	return
+}
